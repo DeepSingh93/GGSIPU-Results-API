@@ -5,6 +5,16 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mycampusnotes.GGSIPU-Results.API", "mycampusnotes.GGSIPU-Results.API\mycampusnotes.GGSIPU-Results.API.csproj", "{7BDC8FE8-3486-4187-80CD-614FE511A600}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mycampusnotes.GGSIPU-Results.BUSINESSLAYER", "mycampusnotes.GGSIPU-Results.BUSINESSLAYER\mycampusnotes.GGSIPU-Results.BUSINESSLAYER.csproj", "{17584793-72B9-43BD-AB83-BCA863B37000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mycampusnotes.GGSIPU-Results.DATALAYER", "mycampusnotes.GGSIPU-Results.DATALAYER\mycampusnotes.GGSIPU-Results.DATALAYER.csproj", "{157265E8-568F-4336-8351-B8D2ACCBB2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mycampusnotes.CRYPTOGRAPHY", "mycampusnotes.GGSIPU-Results.CRYPTOGRAPHY\mycampusnotes.CRYPTOGRAPHY.csproj", "{F8D13015-4C1B-4D7B-9738-75551DD4B0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mycampusnotes.LOGGER", "mycampusnotes.GGSIPU-Results.LOGGER\mycampusnotes.LOGGER.csproj", "{69460A5E-9643-48EB-AF28-E3926E40E805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mycampusnotes.MAILER", "mycampusnotes.MAILER\mycampusnotes.MAILER.csproj", "{167D66A8-6DB5-45EF-84F6-4CFD328D1C66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{7BDC8FE8-3486-4187-80CD-614FE511A600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BDC8FE8-3486-4187-80CD-614FE511A600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BDC8FE8-3486-4187-80CD-614FE511A600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17584793-72B9-43BD-AB83-BCA863B37000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17584793-72B9-43BD-AB83-BCA863B37000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17584793-72B9-43BD-AB83-BCA863B37000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17584793-72B9-43BD-AB83-BCA863B37000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157265E8-568F-4336-8351-B8D2ACCBB2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157265E8-568F-4336-8351-B8D2ACCBB2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157265E8-568F-4336-8351-B8D2ACCBB2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157265E8-568F-4336-8351-B8D2ACCBB2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D13015-4C1B-4D7B-9738-75551DD4B0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D13015-4C1B-4D7B-9738-75551DD4B0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D13015-4C1B-4D7B-9738-75551DD4B0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D13015-4C1B-4D7B-9738-75551DD4B0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69460A5E-9643-48EB-AF28-E3926E40E805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69460A5E-9643-48EB-AF28-E3926E40E805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69460A5E-9643-48EB-AF28-E3926E40E805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69460A5E-9643-48EB-AF28-E3926E40E805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167D66A8-6DB5-45EF-84F6-4CFD328D1C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167D66A8-6DB5-45EF-84F6-4CFD328D1C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167D66A8-6DB5-45EF-84F6-4CFD328D1C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167D66A8-6DB5-45EF-84F6-4CFD328D1C66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
